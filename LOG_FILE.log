@@ -1,0 +1,74 @@
+UVM_INFO /home/runner/scoreboard.sv(50) @ 5: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=0000 ld=0 inc=0 rst_n=0  dout=0000
+UVM_INFO /home/runner/scoreboard.sv(39) @ 5: uvm_test_top.env_h.scoreboard_h [write_drv STIM] din=0000 ld=0 inc=0 rst_n=0
+UVM_INFO /home/runner/scoreboard.sv(64) @ 5: uvm_test_top.env_h.scoreboard_h [PASS ] din=0000 ld=0 inc=0 rst_n=0  dout=0000
+UVM_INFO /home/runner/scoreboard.sv(50) @ 15: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=0001 ld=1 inc=1 rst_n=0  dout=0000
+UVM_INFO /home/runner/scoreboard.sv(39) @ 15: uvm_test_top.env_h.scoreboard_h [write_drv STIM] din=7e95 ld=0 inc=1 rst_n=1
+UVM_INFO /home/runner/scoreboard.sv(64) @ 15: uvm_test_top.env_h.scoreboard_h [PASS ] din=0001 ld=1 inc=1 rst_n=0  dout=0000
+UVM_INFO /home/runner/scoreboard.sv(50) @ 25: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=0000 ld=0 inc=0 rst_n=0  dout=0000
+UVM_INFO /home/runner/scoreboard.sv(50) @ 35: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=7e95 ld=0 inc=1 rst_n=1  dout=0001
+UVM_INFO /home/runner/scoreboard.sv(50) @ 45: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=7e95 ld=0 inc=1 rst_n=1  dout=0002
+UVM_INFO /home/runner/scoreboard.sv(50) @ 55: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=7e95 ld=0 inc=1 rst_n=1  dout=0003
+UVM_INFO /home/runner/scoreboard.sv(50) @ 65: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=7e95 ld=0 inc=1 rst_n=1  dout=0004
+UVM_INFO /home/runner/scoreboard.sv(50) @ 75: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=7e95 ld=0 inc=1 rst_n=1  dout=0005
+UVM_INFO /home/runner/scoreboard.sv(50) @ 85: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=7e95 ld=0 inc=1 rst_n=1  dout=0006
+UVM_INFO /home/runner/scoreboard.sv(50) @ 95: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=7e95 ld=0 inc=1 rst_n=1  dout=0007
+UVM_INFO /home/runner/scoreboard.sv(50) @ 105: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=7e95 ld=0 inc=1 rst_n=1  dout=0008
+UVM_INFO /home/runner/scoreboard.sv(50) @ 115: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=7e95 ld=0 inc=1 rst_n=1  dout=0009
+UVM_INFO /home/runner/scoreboard.sv(50) @ 125: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=7e95 ld=0 inc=1 rst_n=1  dout=000a
+UVM_INFO /home/runner/scoreboard.sv(50) @ 135: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=7e95 ld=0 inc=1 rst_n=1  dout=000b
+UVM_INFO /home/runner/scoreboard.sv(50) @ 145: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=7e95 ld=0 inc=1 rst_n=1  dout=000c
+UVM_INFO /home/runner/scoreboard.sv(50) @ 155: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=7e95 ld=0 inc=1 rst_n=1  dout=000d
+UVM_INFO /home/runner/scoreboard.sv(50) @ 165: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=7e95 ld=0 inc=1 rst_n=1  dout=000e
+UVM_INFO /home/runner/scoreboard.sv(50) @ 175: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=7e95 ld=0 inc=1 rst_n=1  dout=000f
+UVM_INFO /home/runner/scoreboard.sv(50) @ 185: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=7e95 ld=0 inc=1 rst_n=1  dout=0010
+UVM_INFO /home/runner/scoreboard.sv(50) @ 195: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=7e95 ld=0 inc=1 rst_n=1  dout=0011
+UVM_INFO /home/runner/scoreboard.sv(50) @ 205: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=7e95 ld=0 inc=1 rst_n=1  dout=0012
+UVM_INFO /home/runner/scoreboard.sv(50) @ 215: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=7e95 ld=0 inc=1 rst_n=1  dout=0013
+UVM_INFO /home/runner/scoreboard.sv(50) @ 225: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=7e95 ld=0 inc=1 rst_n=1  dout=0014
+UVM_INFO /home/runner/scoreboard.sv(50) @ 235: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=7e95 ld=0 inc=1 rst_n=1  dout=0015
+UVM_INFO /home/runner/scoreboard.sv(50) @ 245: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=7e95 ld=0 inc=1 rst_n=1  dout=0016
+UVM_INFO /home/runner/scoreboard.sv(50) @ 255: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=7e95 ld=0 inc=1 rst_n=1  dout=0017
+UVM_INFO /home/runner/scoreboard.sv(50) @ 265: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=7e95 ld=0 inc=1 rst_n=1  dout=0018
+UVM_INFO /home/runner/scoreboard.sv(50) @ 275: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=7e95 ld=0 inc=1 rst_n=1  dout=0019
+UVM_INFO /home/runner/scoreboard.sv(50) @ 285: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=7e95 ld=0 inc=1 rst_n=1  dout=001a
+UVM_INFO /home/runner/scoreboard.sv(50) @ 295: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=7e95 ld=0 inc=1 rst_n=1  dout=001b
+UVM_INFO /home/runner/scoreboard.sv(50) @ 305: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=7e95 ld=0 inc=1 rst_n=1  dout=001c
+UVM_INFO /home/runner/scoreboard.sv(50) @ 315: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=7e95 ld=0 inc=1 rst_n=1  dout=001d
+UVM_INFO /home/runner/scoreboard.sv(39) @ 315: uvm_test_top.env_h.scoreboard_h [write_drv STIM] din=0000 ld=0 inc=0 rst_n=0
+UVM_INFO /home/runner/scoreboard.sv(64) @ 315: uvm_test_top.env_h.scoreboard_h [PASS ] din=0000 ld=0 inc=0 rst_n=0  dout=0000
+UVM_INFO /home/runner/scoreboard.sv(50) @ 325: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=7e95 ld=0 inc=1 rst_n=0  dout=0000
+UVM_INFO /home/runner/scoreboard.sv(39) @ 325: uvm_test_top.env_h.scoreboard_h [write_drv STIM] din=0007 ld=1 inc=0 rst_n=1
+UVM_INFO /home/runner/scoreboard.sv(64) @ 325: uvm_test_top.env_h.scoreboard_h [PASS ] din=7e95 ld=0 inc=1 rst_n=0  dout=0000
+UVM_INFO /home/runner/scoreboard.sv(50) @ 335: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=0000 ld=0 inc=0 rst_n=0  dout=0000
+UVM_INFO /home/runner/scoreboard.sv(39) @ 335: uvm_test_top.env_h.scoreboard_h [write_drv STIM] din=4dab ld=0 inc=1 rst_n=1
+UVM_INFO /home/runner/scoreboard.sv(50) @ 345: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=0007 ld=1 inc=0 rst_n=1  dout=0007
+UVM_INFO /home/runner/scoreboard.sv(50) @ 355: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=4dab ld=0 inc=1 rst_n=1  dout=0008
+UVM_INFO /home/runner/scoreboard.sv(50) @ 365: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=4dab ld=0 inc=1 rst_n=1  dout=0009
+UVM_INFO /home/runner/scoreboard.sv(50) @ 375: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=4dab ld=0 inc=1 rst_n=1  dout=000a
+UVM_INFO /home/runner/scoreboard.sv(50) @ 385: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=4dab ld=0 inc=1 rst_n=1  dout=000b
+UVM_INFO /home/runner/scoreboard.sv(50) @ 395: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=4dab ld=0 inc=1 rst_n=1  dout=000c
+UVM_INFO /home/runner/scoreboard.sv(50) @ 405: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=4dab ld=0 inc=1 rst_n=1  dout=000d
+UVM_INFO /home/runner/scoreboard.sv(50) @ 415: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=4dab ld=0 inc=1 rst_n=1  dout=000e
+UVM_INFO /home/runner/scoreboard.sv(50) @ 425: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=4dab ld=0 inc=1 rst_n=1  dout=000f
+UVM_INFO /home/runner/scoreboard.sv(50) @ 435: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=4dab ld=0 inc=1 rst_n=1  dout=0010
+UVM_INFO /home/runner/scoreboard.sv(50) @ 445: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=4dab ld=0 inc=1 rst_n=1  dout=0011
+UVM_INFO /home/runner/scoreboard.sv(50) @ 455: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=4dab ld=0 inc=1 rst_n=1  dout=0012
+UVM_INFO /home/runner/scoreboard.sv(50) @ 465: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=4dab ld=0 inc=1 rst_n=1  dout=0013
+UVM_INFO /home/runner/scoreboard.sv(50) @ 475: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=4dab ld=0 inc=1 rst_n=1  dout=0014
+UVM_INFO /home/runner/scoreboard.sv(50) @ 485: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=4dab ld=0 inc=1 rst_n=1  dout=0015
+UVM_INFO /home/runner/scoreboard.sv(50) @ 495: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=4dab ld=0 inc=1 rst_n=1  dout=0016
+UVM_INFO /home/runner/scoreboard.sv(50) @ 505: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=4dab ld=0 inc=1 rst_n=1  dout=0017
+UVM_INFO /home/runner/scoreboard.sv(50) @ 515: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=4dab ld=0 inc=1 rst_n=1  dout=0018
+UVM_INFO /home/runner/scoreboard.sv(50) @ 525: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=4dab ld=0 inc=1 rst_n=1  dout=0019
+UVM_INFO /home/runner/scoreboard.sv(50) @ 535: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=4dab ld=0 inc=1 rst_n=1  dout=001a
+UVM_INFO /home/runner/scoreboard.sv(50) @ 545: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=4dab ld=0 inc=1 rst_n=1  dout=001b
+UVM_INFO /home/runner/scoreboard.sv(50) @ 555: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=4dab ld=0 inc=1 rst_n=1  dout=001c
+UVM_INFO /home/runner/scoreboard.sv(50) @ 565: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=4dab ld=0 inc=1 rst_n=1  dout=001d
+UVM_INFO /home/runner/scoreboard.sv(50) @ 575: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=4dab ld=0 inc=1 rst_n=1  dout=001e
+UVM_INFO /home/runner/scoreboard.sv(50) @ 585: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=4dab ld=0 inc=1 rst_n=1  dout=001f
+UVM_INFO /home/runner/scoreboard.sv(50) @ 595: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=4dab ld=0 inc=1 rst_n=1  dout=0020
+UVM_INFO /home/runner/scoreboard.sv(50) @ 605: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=4dab ld=0 inc=1 rst_n=1  dout=0021
+UVM_INFO /home/runner/scoreboard.sv(50) @ 615: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=4dab ld=0 inc=1 rst_n=1  dout=0022
+UVM_INFO /home/runner/scoreboard.sv(50) @ 625: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] din=4dab ld=0 inc=1 rst_n=1  dout=0023
+UVM_INFO /home/runner/coverage.sv(51) @ 635: uvm_test_top.env_h.coverage_h [coverage] Coverage is 66.670736
+UVM_INFO /home/runner/scoreboard.sv(80) @ 635: uvm_test_top.env_h.scoreboard_h [PASSED] *** TEST PASSED - 4 vectors ran, 4 vectors passed ***
